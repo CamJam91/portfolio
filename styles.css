@@ -1,0 +1,33 @@
+*{
+	font-family:helvetica, arial, "Times New Roman";
+	font-size:1.5rem;
+	letter-spacing:.5rem;
+}
+
+a{
+	color:inherit;
+	text-decoration:inherit;
+}
+
+li{
+	list-style:none;
+}
+
+h1{
+	font-weight:inherit;
+	font-style:inherit;
+	font-size:inherit;
+	display: inline;
+}
+
+#h-port{
+	margin-left:19.7rem;
+}
+
+ul{
+	float:right;
+}
+
+li{
+	text-align:right;
+}
