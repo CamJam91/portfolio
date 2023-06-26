@@ -1,0 +1,17 @@
+Design throughline
+- Simple overall design
+- Soft off white colors
+- header and links same font style and size or very similar
+- Far letter spacing
+- In an effort to keep links and headers uniform throughout entire project either
+	1. Use portfolio as a link to home and have all links stay in place no matter what page
+		-downside is that the page user is on will have a useless link to current page
+	2. Have links change dynamically but use letter-spacing to make a uniform block of text
+		- downside is that letter-spacing might look a little odd. 
+
+Homepage has name on top left as h1. Portfolio at top right as h1. 
+-put about me section here instead of about me page?
+- or keep it as a simple landing page?
+
+Essays page
+- same structure as home but block of text to the left. 

@@ -11,6 +11,7 @@ a{
 
 li{
 	list-style:none;
+	text-align:right;
 }
 
 h1{
@@ -24,10 +25,8 @@ h1{
 	margin-left:19.7rem;
 }
 
+#h-page{
+	
 ul{
 	float:right;
-}
-
-li{
-	text-align:right;
 }
