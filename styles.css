@@ -19,13 +19,20 @@ h1{
 	display:flex;
 	justify-content:flex-end;
 }
+
 ul{
+	border:solid;
+	border-color:brown;
+	display:flex;
+	flex-direction:column;
 
 }
 
 li{
         list-style:none;
         text-align:right;
+	border:solid;
+	margin-left:auto;
 }
 
 a{
@@ -35,9 +42,6 @@ a{
 
 /*About page*/
 
-#text-body{
-	padding:3rem;
-}
 
 p{
 	letter-spacing:normal;
@@ -45,4 +49,21 @@ p{
 	border:solid;
 	padding:2rem;
 	border-color:brown;
+	margin:.5rem;
+}
+
+/*Essays*/
+
+.text-body{
+	display:flex;
+}
+
+.p1{
+	flex:2;
+	margin-bottom:auto;
+}
+
+.p2{
+	flex:1;
+	order:-1
 }
