@@ -25,7 +25,11 @@ ul{
 	border-color:brown;
 	display:flex;
 	flex-direction:column;
-
+	margin-left:auto;
+	padding-left:0;
+	flex:1;
+	order:-4;
+	justify-content:;
 }
 
 li{
@@ -54,16 +58,19 @@ p{
 
 /*Essays*/
 
-.text-body{
+.body{
 	display:flex;
+	border:solid;
+	flex-direction:row-reverse;
+}
+
+.text-body{
+	border:solid;
 }
 
 .p1{
-	flex:2;
 	margin-bottom:auto;
 }
 
 .p2{
-	flex:1;
-	order:-1
 }
