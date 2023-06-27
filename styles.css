@@ -4,29 +4,45 @@
 	letter-spacing:.5rem;
 }
 
-a{
-	color:inherit;
-	text-decoration:inherit;
-}
-
-li{
-	list-style:none;
-	text-align:right;
+header{
+	display:flex;
+	justify-content:space-between;
 }
 
 h1{
 	font-weight:inherit;
 	font-style:inherit;
 	font-size:inherit;
-	display: inline;
 }
 
-#h-port{
-	margin-left:19.7rem;
+.links{
+	display:flex;
+	justify-content:flex-end;
 }
-
-#h-page{
-	
 ul{
-	float:right;
+
+}
+
+li{
+        list-style:none;
+        text-align:right;
+}
+
+a{
+        color:inherit;
+        text-decoration:inherit;
+}
+
+/*About page*/
+
+#text-body{
+	padding:3rem;
+}
+
+p{
+	letter-spacing:normal;
+	font-size:1.25rem;
+	border:solid;
+	padding:2rem;
+	border-color:brown;
 }
