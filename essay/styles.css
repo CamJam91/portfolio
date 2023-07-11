@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:helvetica, arial, georgia, "times new roman";
+	font-size:1.1rem;
+}
+
+h1{
+	font-size:1.7rem;
+	display:inline;
+	letter-spacing:1rem;
+}
+
+h2{
+	font-size:1.3rem;
+	letter-spacing:.6rem;
+	display:inline;
+	border: solid;
+}
+
+.h-port{
+	float:right;
+}
+
+.text-body{
+	display:inline;
+	float:right;
+	border:solid;
+	width:50rem;
+}
